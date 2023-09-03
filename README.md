@@ -1,8 +1,9 @@
 # Quadratic Calculator
 Quadratic Formula Calculator with UI!
 
-Created back in 2021 when Andoiii started to first go into coding, this is a VERY rough quadratic calculator - it gets the roots of a quadratic equation. It looks like it comes straight out of 2004, 
-and could definetly need some help when it comes to user experience, but it works and gets the job done.
+Created back in 2021 when Andoiii started to first go into coding, this is a VERY rough quadratic calculator.
+
+![image](https://github.com/Andoiiii/Quadratic-Calc/assets/120694550/85f9b2c5-e771-4883-bdec-b8560f698bad)
 
 **Functionality**
 - Graphical Interface
@@ -10,7 +11,6 @@ and could definetly need some help when it comes to user experience, but it work
 
 **Anti-Functionality**
 - Integer Inputs only
-- Does not simplify answer
 - Cannot give answers in decimal form
 
 **Things Used**
